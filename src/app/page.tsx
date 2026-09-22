@@ -119,7 +119,6 @@ export default function Home() {
         <header className="chat-header">
           <div>
             <p className="eyebrow">Canal interno · ahora</p>
-            <h2>Conversación con la IA</h2>
           </div>
           <div className="header-badge"><span className="status-dot" /> En línea</div>
         </header>
